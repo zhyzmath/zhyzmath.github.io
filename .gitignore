@@ -1,0 +1,14 @@
+# Only production files and their maintenance documentation are published.
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/academic.css
+!/favicon.svg
+!/assets/
+/assets/*
+!/assets/yizhou-zhao-hd.png
+!/assets/gatech-seal.svg
+!/assets/penn-shield.png
+!/assets/zju-emblem.png
